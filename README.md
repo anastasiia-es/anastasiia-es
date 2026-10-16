@@ -5,7 +5,7 @@ MSc in Automation Engineering (Robotics), Tampere University.
 
 My background includes mobile robotics, control, simulation, computer vision, embedded systems, and hardware-software integration.
 
-## Selected Projects
+## Projects
 
 ### Shared Human–AI Control for Unitree Go2
 **Python · MuJoCo · Shared Autonomy · APF Navigation**
